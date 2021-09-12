@@ -1,0 +1,33 @@
+INTRO good m, assalam
+i am ... along with my groupmates ....... 
+welcoming you to our .... final presentation on our project which is Car Dealership System
+my groupmate sayem kader will start us off
+
+ACTVITY ITRO activity diagram: is an UML diagram that focuses on the actors of  the system and the flow of their activities. 
+for our stakeholders convenience we have divided our activity diagram into 3 parts through swimlane process 
+
+CUSTOMER first, we are gonna start off with the customer and authentication activity, if he is a regitered customer he can directly log in the system 
+if he is a new user he will have to sign up for the system. upon completion of the authentication process it lands him on the homepage, 
+from there he can navigate through the system, he can either view a car which is already on the homepage or search for a specific car detailing his personal needs or preferancees,
+upon selecting the car he can either interact with the car like comment or upvote the item, 
+contact the seller via texts which will be hosted internally or call which we will show him the number
+or go right ahead and buy. to complete the purchase process we have intergated payment process, 
+and we have though about 3 payment methods, either pay via mobile manking , credit cards, or COD to complete the whole process.
+
+SALESMAN next, salesman, who will get into the system through authentication. seller can list an item, or update his inventory via eiditing items, thats pretty muhc it for the seller.
+
+ADMIN finally, admin's role in the system will be to authenticate the logins from customer or sellers, 
+he is an admin so he will have access to the internal database and be the most important person of the system
+
+DFD
+then, we move on to  DFD,s - dfd are uml diagrams which show the flow of the data in respect to the processes , the external agents and the databases.
+our level 0 DFD shows the external agents ..... and the process, and the flow of the data ie ingoing and outgoing data, ingoing to process green outgoing from process red
+the customer will send datas and receive datas
+seller will send req receive data
+admin will send and receive data
+
+level 1 diagram is a more detailed level 0 diagram which allows us to dissect the important process for better understanding , indtroduce the databases and show the flow of data. 
+we broke up the proces into 4 parts .........................
+
+we have 3 databases to store necessary data
+   
